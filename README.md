@@ -1,4 +1,4 @@
-# Election Predictive Analytics & Clustering Analysis
+# Election Classification & Clustering Analysis
 
 ## Part I
 
