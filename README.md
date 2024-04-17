@@ -1,5 +1,7 @@
 # Election Classification & Clustering Analysis
 
+Classification & Clustering Assignment for the Statistics II Course of AUEB's MSc in Business Analytics
+
 ## Part I
 
 The first part aims at creating a predictive model to classify whether Trump got more than 50% of the votes. You have to use at least 3 distinct methods and assess how good the predictions made by your models are.
